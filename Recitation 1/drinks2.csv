@@ -1,0 +1,194 @@
+,wine_servings,total_litres_of_pure_alcohol,continent
+0,0,0.0,Asia
+1,54,4.9,Europe
+2,14,0.7,Africa
+3,312,12.4,Europe
+4,45,5.9,Africa
+5,45,4.9,North America
+6,221,8.3,South America
+7,11,3.8,Europe
+8,212,10.4,Oceania
+9,191,9.7,Europe
+10,5,1.3,Europe
+11,51,6.3,North America
+12,7,2.0,Asia
+13,0,0.0,Asia
+14,36,6.3,North America
+15,42,14.4,Europe
+16,212,10.5,Europe
+17,8,6.8,North America
+18,13,1.1,Africa
+19,0,0.4,Asia
+20,8,3.8,South America
+21,8,4.6,Europe
+22,35,5.4,Africa
+23,16,7.2,South America
+24,1,0.6,Asia
+25,94,10.3,Europe
+26,7,4.3,Africa
+27,0,6.3,Africa
+28,7,4.0,Africa
+29,16,4.0,Africa
+30,1,2.2,Asia
+31,4,5.8,Africa
+32,100,8.2,North America
+33,1,1.8,Africa
+34,1,0.4,Africa
+35,172,7.6,South America
+36,8,5.0,Asia
+37,3,4.2,South America
+38,1,0.1,Africa
+39,9,1.7,Africa
+40,74,5.9,Oceania
+41,11,4.4,North America
+42,254,10.2,Europe
+43,5,4.2,North America
+44,113,8.2,Europe
+45,134,11.8,Europe
+46,0,0.0,Asia
+47,1,2.3,Africa
+48,278,10.4,Europe
+49,3,1.1,Africa
+50,26,6.6,North America
+51,9,6.2,North America
+52,3,4.2,South America
+53,1,0.2,Africa
+54,2,2.2,North America
+55,233,5.8,Africa
+56,0,0.5,Africa
+57,59,9.5,Europe
+58,0,0.7,Africa
+59,1,2.0,Oceania
+60,97,10.0,Europe
+61,370,11.8,Europe
+62,59,8.9,Africa
+63,1,2.4,Africa
+64,149,5.4,Europe
+65,175,11.3,Europe
+66,10,1.8,Africa
+67,218,8.3,Europe
+68,28,11.9,North America
+69,2,2.2,North America
+70,2,0.2,Africa
+71,21,2.5,Africa
+72,1,7.1,South America
+73,1,5.9,North America
+74,2,3.0,North America
+75,185,11.3,Europe
+76,78,6.6,Europe
+77,0,2.2,Asia
+78,0,0.1,Asia
+79,0,0.0,Asia
+80,0,0.2,Asia
+81,165,11.4,Europe
+82,9,2.5,Asia
+83,237,6.5,Europe
+84,9,3.4,North America
+85,16,7.0,Asia
+86,1,0.5,Asia
+87,12,6.8,Asia
+88,2,1.8,Africa
+89,1,1.0,Oceania
+90,0,0.0,Asia
+91,6,2.4,Asia
+92,123,6.2,Asia
+93,62,10.5,Europe
+94,31,1.9,Asia
+95,0,2.8,Africa
+96,2,3.1,Africa
+97,0,0.0,Africa
+98,56,12.9,Europe
+99,271,11.4,Europe
+100,4,0.8,Africa
+101,1,1.5,Africa
+102,0,0.3,Asia
+103,0,0.0,Asia
+104,1,0.6,Africa
+105,120,6.6,Europe
+106,0,0.0,Oceania
+107,0,0.0,Africa
+108,18,2.6,Africa
+109,5,5.5,North America
+110,18,2.3,Oceania
+111,0,0.0,Europe
+112,8,4.9,Asia
+113,128,4.9,Europe
+114,10,0.5,Africa
+115,5,1.3,Africa
+116,0,0.1,Asia
+117,1,6.8,Africa
+118,8,1.0,Oceania
+119,0,0.2,Asia
+120,190,9.4,Europe
+121,175,9.3,Oceania
+122,1,3.5,North America
+123,1,0.1,Africa
+124,2,9.1,Africa
+125,7,7.0,Oceania
+126,129,6.7,Europe
+127,1,0.7,Asia
+128,0,0.0,Asia
+129,23,6.9,Oceania
+130,18,7.2,North America
+131,1,1.5,Oceania
+132,74,7.3,South America
+133,21,6.1,South America
+134,1,4.6,Asia
+135,56,10.9,Europe
+136,339,11.0,Europe
+137,7,0.9,Asia
+138,9,9.8,Asia
+139,18,6.3,Europe
+140,167,10.4,Europe
+141,73,11.5,Asia
+142,0,6.8,Africa
+143,32,7.7,North America
+144,71,10.1,North America
+145,11,6.3,North America
+146,24,2.6,Oceania
+147,0,0.0,Europe
+148,140,4.2,Africa
+149,0,0.1,Asia
+150,7,0.3,Africa
+151,127,9.6,Europe
+152,51,4.1,Africa
+153,2,6.7,Africa
+154,11,1.5,Asia
+155,116,11.4,Europe
+156,276,10.6,Europe
+157,1,1.2,Oceania
+158,0,0.0,Africa
+159,81,8.2,Africa
+160,112,10.0,Europe
+161,0,2.2,Asia
+162,0,1.7,Africa
+163,7,5.6,South America
+164,2,4.7,Africa
+165,186,7.2,Europe
+166,280,10.2,Europe
+167,16,1.0,Asia
+168,0,0.3,Asia
+169,1,6.4,Asia
+170,86,3.9,Europe
+171,4,0.1,Asia
+172,19,1.3,Africa
+173,5,1.1,Oceania
+174,7,6.4,North America
+175,20,1.3,Africa
+176,7,1.4,Asia
+177,32,2.2,Asia
+178,9,1.0,Oceania
+179,0,8.3,Africa
+180,45,8.9,Europe
+181,5,2.8,Asia
+182,195,10.4,Europe
+183,1,5.7,Africa
+184,84,8.7,North America
+185,220,6.6,South America
+186,8,2.4,Asia
+187,11,0.9,Oceania
+188,3,7.7,South America
+189,1,2.0,Asia
+190,0,0.1,Asia
+191,4,2.5,Africa
+192,4,4.7,Africa
